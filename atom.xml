@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-04-23T15:07:15.658Z</updated>
+  <updated>2022-04-30T16:33:47.372Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>夜</title>
+    <link href="http://example.com/05/01/2022/%E5%A4%9C/"/>
+    <id>http://example.com/05/01/2022/%E5%A4%9C/</id>
+    <published>2022-04-30T16:32:42.000Z</published>
+    <updated>2022-04-30T16:33:47.372Z</updated>
+    
+    <content type="html"><![CDATA[<p>![夜](<a href="http://img.koryuki.moe/i/2022/05/01/626d643896602.jpg">http://img.koryuki.moe/i/2022/05/01/626d643896602.jpg</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;![夜](&lt;a href=&quot;http://img.koryuki.moe/i/2022/05/01/626d643896602.jpg&quot;&gt;http://img.koryuki.moe/i/2022/05/01/626d643896602.jpg&lt;/a&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>雨</title>
