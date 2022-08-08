@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Site of MargueriteK</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-01-31T16:52:20.000Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>MargueriteK</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/05/17/2022/hello-world/"/>
+    <id>http://example.com/05/17/2022/hello-world/</id>
+    <published>2022-05-17T09:33:32.268Z</published>
+    <updated>2022-01-31T16:52:20.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>夜</title>
+    <link href="http://example.com/05/01/2022/%E5%A4%9C/"/>
+    <id>http://example.com/05/01/2022/%E5%A4%9C/</id>
+    <published>2022-04-30T16:32:42.000Z</published>
+    <updated>2022-04-30T16:37:38.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://img.koryuki.moe/i/2022/05/01/626d643896602.jpg" alt="夜"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;http://img.koryuki.moe/i/2022/05/01/626d643896602.jpg&quot; alt=&quot;夜&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>雨</title>
+    <link href="http://example.com/04/23/2022/%E9%9B%A8/"/>
+    <id>http://example.com/04/23/2022/%E9%9B%A8/</id>
+    <published>2022-04-23T14:53:30.000Z</published>
+    <updated>2022-04-23T15:07:15.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://img.koryuki.moe/i/2022/04/23/626415daf1ac8.jpg" alt="雨"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;http://img.koryuki.moe/i/2022/04/23/626415daf1ac8.jpg&quot; alt=&quot;雨&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>March 1st today</title>
+    <link href="http://example.com/03/01/2022/March-1st-today/"/>
+    <id>http://example.com/03/01/2022/March-1st-today/</id>
+    <published>2022-03-01T12:00:00.000Z</published>
+    <updated>2022-03-01T11:42:28.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="1-6-of-the-year-has-passed-I-have-not-do-anything"><a href="#1-6-of-the-year-has-passed-I-have-not-do-anything" class="headerlink" title="1/6 of the year has passed. I have not do anything."></a>1/6 of the year has passed. I have not do anything.</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;1-6-of-the-year-has-passed-I-have-not-do-anything&quot;&gt;&lt;a href=&quot;#1-6-of-the-year-has-passed-I-have-not-do-anything&quot; class=&quot;headerlink&quot; t</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Happy Chinese new year.</title>
+    <link href="http://example.com/02/01/2022/Happy-Chinese-new-year/"/>
+    <id>http://example.com/02/01/2022/Happy-Chinese-new-year/</id>
+    <published>2022-01-31T16:55:16.000Z</published>
+    <updated>2022-01-31T16:58:24.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="新年快乐"><a href="#新年快乐" class="headerlink" title="新年快乐 !"></a>新年快乐 !</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;新年快乐&quot;&gt;&lt;a href=&quot;#新年快乐&quot; class=&quot;headerlink&quot; title=&quot;新年快乐 !&quot;&gt;&lt;/a&gt;新年快乐 !&lt;/h1&gt;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Test page</title>
+    <link href="http://example.com/01/21/2022/Test-page/"/>
+    <id>http://example.com/01/21/2022/Test-page/</id>
+    <published>2022-01-21T14:23:46.000Z</published>
+    <updated>2022-03-27T10:55:25.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Test"><a href="#Test" class="headerlink" title="Test"></a>Test</h1><h2 id="This-is-a-test-page-and-this-is-test-words"><a href="#This-is-a-test-page-and-this-is-test-words" class="headerlink" title="This is a test page, and this is test words."></a>This is a test page, and this is test words.</h2><p><img src="http://img.koryuki.moe/i/2022/03/27/623f4db2003c2.jpg" alt="三三"></p><h3 id="Looks-well"><a href="#Looks-well" class="headerlink" title="Looks well."></a>Looks well.</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;Test&quot;&gt;&lt;a href=&quot;#Test&quot; class=&quot;headerlink&quot; title=&quot;Test&quot;&gt;&lt;/a&gt;Test&lt;/h1&gt;&lt;h2 id=&quot;This-is-a-test-page-and-this-is-test-words&quot;&gt;&lt;a href=&quot;#Thi</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
